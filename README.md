@@ -35,10 +35,12 @@
 > `C++` • `Rust` • `Go` • `OpenCV` • `GStreamer` • `Kata Containers` • `Redis` • `PostgreSQL` &nbsp;|&nbsp; *Hult Prize Finalist*
 
 <p align="center">
-  <img src="./assets/ztas_scanner_active.png" height="260" alt="ZTAS Terminal in Active Operation" />
+  <img src="./assets/ztas_physical_scanner.png" height="220" alt="ZTAS Assembled Hardware Unit" />
   &nbsp;&nbsp;
-  <img src="./assets/ztas_vein_capture.png" height="260" alt="Raw Infrared Subdermal Vein Capture" /><br>
-  <sub><b>Left: Active Terminal with Hand Proximity &amp; Cross-Polarized NIR Illumination &nbsp;·&nbsp; Right: Raw Infrared Subdermal Vein Capture</b></sub>
+  <img src="./assets/ztas_scanner_active.png" height="220" alt="ZTAS Terminal in Active Operation" />
+  &nbsp;&nbsp;
+  <img src="./assets/ztas_vein_capture.png" height="220" alt="Raw Infrared Subdermal Vein Capture" /><br>
+  <sub><b>Left: Assembled Terminal &nbsp;·&nbsp; Center: Active Scan with Hand Detection &amp; NIR Illumination &nbsp;·&nbsp; Right: Raw Infrared Subdermal Vein Capture</b></sub>
 </p>
 
 - **Simultaneous Palmprint &amp; Palm Vein Fusion:** Captures surface epidermal ridges and internal vascular networks in parallel, creating an internal physiological profile immune to spoofing.
@@ -69,15 +71,12 @@
 > `KiCad` • `STM32F405` • `Fusion 360` • `Embedded C/C++` &nbsp;|&nbsp; [Source Code →](https://github.com/zischl/ZAIR)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zischl/ZAIR/main/assets/pcb_render_isometric.png" width="380" alt="ZAIR PCB 3D Render" /><br>
-  <sub><b>Custom 2-Layer FR4 PCB Serving as Both Electrical System &amp; Structural Vehicle Chassis</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zischl/ZAIR/main/assets/drivetrain_mesh.png" width="38%" alt="3-Gear Mesh CAD" />
+  <img src="https://raw.githubusercontent.com/zischl/ZAIR/main/assets/pcb_render_isometric.png" height="210" alt="ZAIR PCB 3D Render" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/zischl/ZAIR/main/assets/drivetrain_assembly.png" width="38%" alt="Drivetrain Assembly CAD" /><br>
-  <sub><b>Left: Dual-Drive 3-Gear Direct Pinion Mesh &nbsp;·&nbsp; Right: Motor Mount &amp; Geared Wheels Assembly</b></sub>
+  <img src="./assets/zair_pcb_layout.png" height="210" alt="2-Layer PCB Layout &amp; Routing" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/zischl/ZAIR/main/assets/drivetrain_mesh.png" height="210" alt="3-Gear Mesh CAD" /><br>
+  <sub><b>Left: 3D Assembled PCB Chassis &nbsp;·&nbsp; Center: 2-Layer KiCad Trace Routing &nbsp;·&nbsp; Right: Dual-Drive 3-Gear Direct Pinion Mesh</b></sub>
 </p>
 
 - **Active Vacuum Downforce:** A central 40,000 RPM impeller sucks the robot to the maze floor, generating massive negative pressure for high-G turns without slipping.
@@ -99,7 +98,7 @@
 
 - **1st Runner-Up** - Hult Prize IIT (2026)
 - **1st Runner-Up** - VERTEX IoT Competition (December 2025)
-- **Gold Medal** - Ruhuna New Inventions Exhibition
+- **Gold Medal** - Ruhuna New Inventions Exhibition - *Smartphone-Controlled Robotic Arm Rover*
 
 ---
 
