@@ -90,7 +90,7 @@
 - **[BuildSentry.nvim](https://github.com/zischl/BuildSentry.nvim)** - Neovim build supervisor & floating TUI adapter for `cmake-tools.nvim` with cross-platform toolchain probing. `Lua` `CMake`
 - **[AI-Commits.nvim](https://github.com/zischl/AI-Commits.nvim)** - Conventional commit generator for Neovim with an async pure-Lua SSE stream parser for LLM diff analysis. `Lua` `Gemini API`
 - **[Cross-GLDX](https://github.com/zischl/Cross-GLDX)** - High-performance C++ graphics wrapper enabling zero-copy texture sharing between OpenGL and Direct3D 11. `C++` `D3D11` `OpenGL`
-- **Flood-Watch** - Autonomous ESP32 flood-warning unit with ultrasonic velocity detection and serial-to-FastAPI telemetry. `C++` `ESP32` `FastAPI`
+- **[Flood-Watch](https://github.com/zischl/Flood-Detector)** - Autonomous ESP32 flood-warning unit with ultrasonic velocity detection and serial-to-FastAPI telemetry. `C++` `ESP32` `FastAPI`
 
 ---
 
